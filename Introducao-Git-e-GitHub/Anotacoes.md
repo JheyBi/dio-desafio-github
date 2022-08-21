@@ -1,12 +1,14 @@
-#Anotacoes
-##Comandos
+# Anotacoes
+
+## Comandos
 
 git init → cria a pasta git no repositorio
 git add → transforma o arquivo "untracked" em "staged"
 git commit → coloca o arquivo "staged" no repositorio local
 git push → coloca o repositorio local em repositorio remoto
+git status → analisa o status
 
-##Exemplos
+## Exemplos
 
 git commit -m "Adicao curso introducao git e github" →  -m coloca uma mensagem no commit
 
